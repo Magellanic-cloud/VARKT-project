@@ -3,6 +3,6 @@
 ### Команда: ***Магелановы облака***
 ### Миссия: ***Apollo 11***
 ### Ссылка на отчёт, презентацию и видео: ***https://drive.google.com/drive/folders/1v4kXyTNMCx29C11UDHokipDkb2tDKWzC***
-# Описание
+
 
 
